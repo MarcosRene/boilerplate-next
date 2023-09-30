@@ -1,8 +1,21 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  width: 100%;
+  height: 100%;
+  padding: 3rem;
+  text-align: center;
+  background-color: #03a64a;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 <main
-  class="sc-beyTiQ ddeSQB"
+  class="c0"
 >
   <h1>
     React Avançado
